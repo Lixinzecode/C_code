@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="memcpy.c" />
+    <ClCompile Include="memmove.c" />
     <ClCompile Include="my_strcat.c" />
     <ClCompile Include="my_strcmp.c" />
     <ClCompile Include="my_strcpy.c" />
