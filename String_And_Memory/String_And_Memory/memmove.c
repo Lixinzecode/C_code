@@ -28,7 +28,7 @@ void* my_memmove(void* dest, const void* src, size_t num)
 
 	return ret;
 }
-
+//
 void test()
 {
 	int arr1[] = { 1,2,3,4,5,6,7,8,9,10 };
